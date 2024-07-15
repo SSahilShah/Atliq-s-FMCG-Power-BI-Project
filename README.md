@@ -5,7 +5,7 @@ As part of the October month Codebasics resume challenge, I have performed data 
 ## Challenge Links
 
 - [Live Dashboard](https://project.novypro.com/qPC3Rr)
-- [Presentation Video](https://example.com/video)
+- [Presentation Video](https://youtu.be/CGGYvI6GEYo)
 
 ## Problem Statement
 The FMCG delivery company is a growing manufacturer headquartered in Gujarat,India. It is currently operational in three main cities of India. They plan to expand to other metro/tier 1 cities in the next 2 years.
